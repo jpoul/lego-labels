@@ -8,6 +8,7 @@ A tool to generate and print lego labels for Stanley drawers.
 3. Open index.html in your favourite browser (except IE*).
 4. Click the "Choose File" button and select the data.json file.
 5. Click Render.
+6. Print.
 
 ## Printing
 Print settings are configured in the index.css file, so you shouldn't have to configure any specific settings.
